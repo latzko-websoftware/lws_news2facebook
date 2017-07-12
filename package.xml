@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE contaopackage>
+<extension name="lwsnews2facebook" date="20170712">
+    <author user="Latzko Websoftware GmbH" name="Latzko Websoftware GmbH" website="http://www.latzko-websoftware.de" />
+    <copyright>&amp;copy; 2017 Latzko Websoftware GmbH</copyright>
+    <license>LGPL</license>
+    <classification type="free" category="application" />
+    <release version="10000" build="1" date="20170712" />
+    <contao minversion="30000000" maxversion="30500028" />
+    <language code="de">
+        <translator user="Latzko Websoftware GmbH" name="Latzko Websoftware GmbH" website="http://www.latzko-websoftware.de" />
+        <searchtags>Facebook,News,share,Latzko Websoftware</searchtags>
+        <title>News2Facebook - Latzko Websoftware GmbH</title>
+        <teaser>Contao News werden automatisch beim Speichern von News auf der facebook-Seite gepostet.</teaser>
+        <description>Diese Erweiterung ermöglicht es, Nachrichten über das Contao-Modul Nachrichten automatisch auf einer facebook-Seite zu posten. Diese Erweiterung geht aus dem Plugin zzz_mb_socialize hervor und wurde an die neue facebook-Api angepasst.</description>
+    </language>
+</extension>
